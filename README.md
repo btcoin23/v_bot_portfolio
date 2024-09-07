@@ -4,9 +4,10 @@ This volume bot can mint new SPL token, make a new market on Raydium, create & i
 
 ## Screenshots
 
+- https://solscan.io/tx/2yJ8SEZDWkQHw9AZW7iSnqrYgaSicgcgFXNcLnau2MET4NJWA3gsvmDw8sTWESHKm3L9EGop7RsxrbYAwqnMjTBd
 ![image](https://github.com/user-attachments/assets/6c713340-d4fa-4552-b947-a6a928783b5c)
 
-
+- https://explorer.jito.wtf/bundle/8463aa4eeb5f63a953647185fdb01a527340a32719cd011ce0d5a3bfccc8e1a9
 ![image](https://github.com/user-attachments/assets/b5c65875-96ba-426e-956a-f4efe5c49d11)
 
 
