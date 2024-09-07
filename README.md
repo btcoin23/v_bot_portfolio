@@ -2,6 +2,14 @@
 
 This volume bot can mint new SPL token, make a new market on Raydium, create & initialize pool, then start the rasing volume action.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/6c713340-d4fa-4552-b947-a6a928783b5c)
+
+
+![image](https://github.com/user-attachments/assets/b5c65875-96ba-426e-956a-f4efe5c49d11)
+
+
 ## How to work
 
 <span style="color: #00ff00;">Buy/Sell/Close WSOL in the same transaction</span>
