@@ -1,0 +1,8 @@
+{
+    "name": "whale.tokenName",
+    "symbol": "whale",
+    "image": "https://arweave.net/yFiAkTFhynTd4YSp0zDGB2DIyi6MkSVh0F4nkkyZ1lU",
+    "sellerFeeBasisPoints": 0,
+    "decimals": 6,
+    "totalSupply": 1000000
+}
