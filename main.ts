@@ -1,1 +1,1 @@
-// Contact author to get the code
+// Contact the author to get this codebase
